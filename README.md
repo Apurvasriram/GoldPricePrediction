@@ -9,4 +9,4 @@ https://www.investing.com/commodities/gold-historical-data
 
 **Results**
 --------------------------------------------------------------------------------------------------------------------------------------------
- The value of Loss and Accuracy (1-MAPE) obtained for this model is 0.001 and 96.1 % 
+ The value of Loss and Accuracy (1-MAPE) obtained for this model is **0.001 and 96.1** % 
